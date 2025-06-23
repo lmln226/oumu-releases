@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Oumu</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 22 Jun 2025 21:38:31 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lmln226/oumu-releases/releases/download/prod/Oumu.zip" length="330050613" type="application/octet-stream" sparkle:edSignature="egzaj9aKYeixQ4pS7p3GceqLEHwrIBWUEjXz4RAY06jeJemH2GXHyKQAcPkIZB/eBCDL0pMWT/CgZwww4bVUBA=="/>
+        </item>
+    </channel>
+</rss>
