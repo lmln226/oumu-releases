@@ -5,8 +5,8 @@
         <item>
             <title>0.1</title>
             <pubDate>Sun, 22 Jun 2025 23:12:29 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/lmln226/oumu-releases/releases/download/prod/Oumu.zip" length="330050613" type="application/octet-stream" sparkle:edSignature="NRv1RAgQKvWSFSMEbQeQiAt9CUNNxe6ChkeWyAsy0MuqH2buH1Pg7ZFekxeHPCRJ0zk5YJstsyChk0c5Xv8rAQ=="/>
         </item>
