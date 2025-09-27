@@ -3,12 +3,12 @@
     <channel>
         <title>Oumu</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 27 Sep 2025 16:02:57 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <title>1.0</title>
+            <pubDate>Sat, 27 Sep 2025 16:38:11 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lmln226/oumu-releases/releases/download/prod/Oumu.zip" length="330047062" type="application/octet-stream" sparkle:edSignature="CERrTxfLc1OzCr5NjPbTWFasehhF7GJ51ajyF9/qNxB14uTNRFevIfrnnb3ep7qAY1KMCC27EVcO5+XSv1PJBw=="/>
+            <enclosure url="https://github.com/lmln226/oumu-releases/releases/download/prod/Oumu.zip" length="330046790" type="application/octet-stream" sparkle:edSignature="TOszQl7eYspIRjOr/JLAu1FfbSjI1oOcmC0bVtG7JIT9o4lwrqog0rQX55JaAVqVLDqmc0YIoHNf0GspZU7DDA=="/>
         </item>
     </channel>
 </rss>
